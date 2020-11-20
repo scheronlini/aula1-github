@@ -8,6 +8,7 @@ public class program {
 		
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
+		System.out.println("teste github ");
 		
 		retangulo x;
 		x = new retangulo();
